@@ -1,0 +1,7 @@
+# Ternary Operator
+# syntax
+condition ? true_value : false_value
+
+x=10
+y=20
+x>y ? print("True") : print("False")         # will print False
