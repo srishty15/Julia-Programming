@@ -14,3 +14,8 @@ After the package is installed,<br/>
 Type the command in Julia's Command Line:<br/>
 using IJulia<br/>
 notebook()
+# Reference
+You can further refer to the links for further in-depth knowldege about Julia:<br/>
+https://docs.julialang.org/en/stable/
+You can even get Documentation pdf from the link:<br/>
+https://juliacomputing.com/docs/JuliaDocumentation.pdf
