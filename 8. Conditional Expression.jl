@@ -5,8 +5,8 @@ y=20
  
 if x > y
    print(x," is greater than ", y)
-elif x < y
+elseif x < y
    print(y," is greater than ", x)
 else
    print(x," is equal to ", y)
-end   
+ end                         # condition will end here      
