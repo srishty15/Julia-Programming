@@ -7,8 +7,8 @@ https://julialang.org/downloads/
 You can even configure Julia with Jupyter Notebook,IJulia. IJulia is a Julia-language backend combined with the Jupyter interactive environment. This combination allows you to interact with the Julia language using Jupyter's powerful graphical notebook, which combines code, formatted text, math, and multimedia in a single document.
 # Installing IJulia Package
 Type the command in Julia's Command Line:
-using Pkg
-Pkg.add("IJulia")
+>> using Pkg
+>> Pkg.add("IJulia")
 # Opening IJulia Package
 After the package is installed,
 Type the command in Julia's Command Lin:
