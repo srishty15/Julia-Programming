@@ -16,6 +16,6 @@ using IJulia<br/>
 notebook()
 # Reference
 You can further refer to the links for further in-depth knowldege about Julia:<br/>
-https://docs.julialang.org/en/stable/
+https://docs.julialang.org/en/stable/<br/>
 You can even get Documentation pdf from the link:<br/>
 https://juliacomputing.com/docs/JuliaDocumentation.pdf
