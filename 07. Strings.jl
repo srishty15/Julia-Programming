@@ -27,7 +27,7 @@ a[end-2]       # will print l
 a[end%2]       # will print H
 
 # String Slicing
-a[3:5]         # a[start:stop] ; both start and stop are inclusive ; will print llo
+a[3:5]         # a[start:stop] ; both start and stop are inclusive ; will print 'llo'
 
 # String Concatenation
 a="Hello"
