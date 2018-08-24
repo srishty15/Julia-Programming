@@ -1,5 +1,5 @@
 # Julia-Programming-Language
-Julia is a flexible dynamic language, appropriate for scientific and numerical computing, with performance comparable to traditional statically-typed languages.<br/> It allows concurrent, parallel and distributed computing, and direct calling of C and Fortran libraries without glue code. <br/>You can even call Python functions by: the PyCall package.
+Julia is a flexible dynamic language, appropriate for scientific and numerical computing, with performance comparable to traditional statically-typed languages.<br/> It allows concurrent, parallel and distributed computing, and direct calling of C and Fortran libraries without glue code. <br/>You can even call Python functions by the 'PyCall' package.
 # Installing Julia
 You can install Julia (current stable version 1.0.0.) from the given link:<br/>
 https://julialang.org/downloads/
